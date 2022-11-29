@@ -100,6 +100,14 @@ Now it's time to put it all together and test the KryptoJobs2Go application with
 
 ![Decorative image.](Images/image1.png)
 
+![Decorative image.](Images/image2.png)
+
+![Decorative image.](Images/image3.png)
+
+![Decorative image.](Images/image4.png)
+
+![Decorative image.](Images/image5.png)
+
 4. Click the Send Transaction button to sign and send the transaction with your Ethereum account information. Navigate to the Transactions section of Ganache.
 
     * Take a screenshot of your address balance and history on Ganache. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
