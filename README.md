@@ -115,7 +115,9 @@ Now it's time to put it all together and test the KryptoJobs2Go application with
 
     * Take a screenshot of the transaction details on Ganache. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
  
- ![Decorative image.](Images/trans.png)
+![Decorative image.](Images/trans.png)
+
+![Decorative image.](Images/trans2.png)
 
 5. Return to the original transaction, and click the transaction’s To address.
 
